@@ -18,3 +18,6 @@ https://docs.google.com/spreadsheets/d/1kHnVtXFtkkIGgtqByQeBrugVw-VG0B7wB8rIOOXG
 
 Минимальное значение отношения к рейтинговой системе  1
 
+
+Работа продолжлась в онлайн таблице
+
